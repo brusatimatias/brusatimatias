@@ -1,16 +1,17 @@
-<h1 align="center">Hola, soy Matias 👋</h1>
+<h2 align="center">Matias Brusati Formento</h2>
+<h4 align="center">Full Stack Developer</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Ruby+on+Rails+%7C+React+%7C+Node.js;Aprendiendo+algo+nuevo+cada+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=18&duration=2200&pause=700&color=F7B32B&center=true&vCenter=true&width=450&lines=Ruby+on+Rails;React;Node.js;React+Native" alt="Typing SVG" />
 </p>
 
 ## Sobre mí
 
-Full Stack Developer con +4 años de experiencia construyendo aplicaciones web y mobile con **Ruby on Rails**, **React**, **Node.js** y **React Native**. Actualmente terminando la Licenciatura en Ciencias de la Computación en la Universidad Nacional de Río Cuarto (Argentina).
+Full Stack Developer con +5 años de experiencia desarrollando aplicaciones web y móviles para clientes nacionales e internacionales, participando en todas las etapas del ciclo de desarrollo: análisis de requerimientos, implementación y mantenimiento en producción.
 
-Me interesa el desarrollo end-to-end: desde el modelado de datos y la arquitectura backend, hasta la experiencia de usuario en el frontend. Trabajé en integraciones de pago y envíos, APIs GraphQL, y apps mobile con miles de usuarios activos.
+Combino desarrollo backend con **Ruby on Rails** y **Node.js**, y frontend con **React** y **React Native**, diseñando APIs REST y GraphQL e integrando servicios externos. Experiencia colaborando con Product Owners, clientes y equipos multidisciplinarios para construir soluciones escalables.
 
-Actualmente construyendo proyectos propios para seguir sumando experiencia y aprendiendo tecnologías nuevas (Next.js, Prisma).
+Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación en la Universidad Nacional de Río Cuarto (UNRC) — carrera actualmente pausada, habiéndola completado casi en su totalidad.
 
 ## 🛠️ Stack tecnológico
 
@@ -34,11 +35,14 @@ Actualmente construyendo proyectos propios para seguir sumando experiencia y apr
 **Bases de datos:**
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 **APIs:**
 
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **DevOps / Hosting:**
@@ -48,17 +52,37 @@ Actualmente construyendo proyectos propios para seguir sumando experiencia y apr
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+**CI:**
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 **Control de versiones:**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**IA:**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+**Otras:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![RSpec](https://img.shields.io/badge/rspec-%23FFFFFF.svg?style=for-the-badge&logo=rspec&logoColor=red)
+
+## 🚀 Proyectos
+
+| Proyecto | Descripción | Stack | Repositorio |
+|---|---|---|---|
+| **Social API** | Backend de la red social: autenticación, posts y follows | Ruby on Rails, PostgreSQL | [Ver repo](https://github.com/brusatimatias/social-api) |
+| **Social Client** | Cliente web de la red social | React | [Ver repo](https://github.com/brusatimatias/social-client) |
+| **Social Messaging API** | Servicio de mensajería en tiempo real de la red social | Node.js, WebSockets | [Ver repo](https://github.com/brusatimatias/social-messaging-api) |
+| **Stickly** | Tablero semanal de notas con integración a Google Calendar | Next.js, Prisma, PostgreSQL | [Ver repo](https://github.com/brusatimatias/stickly) |
 
 ## 🌐 Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matias-brusati-formento)
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brusatimatias&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
