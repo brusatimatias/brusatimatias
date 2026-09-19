@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Full Stack Developer con +5 años de experiencia desarrollando aplicaciones web y móviles para clientes nacionales e internacionales, participando en todas las etapas del ciclo de desarrollo: análisis de requerimientos, implementación y mantenimiento en producción.
+Desarrollo aplicaciones web y móviles, y APIs REST/GraphQL, para clientes nacionales e internacionales, participando en todas las etapas del ciclo de desarrollo: análisis de requerimientos, implementación y mantenimiento en producción.
 
 Combino desarrollo backend con **Ruby on Rails** y **Node.js**, y frontend con **React** y **React Native**, diseñando APIs REST y GraphQL e integrando servicios externos. Experiencia colaborando con Product Owners, clientes y equipos multidisciplinarios para construir soluciones escalables.
 
@@ -76,12 +76,12 @@ Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación
 
 ## 🚀 Proyectos
 
-| Proyecto | Descripción | Stack | Repositorio |
-|---|---|---|---|
-| **Social API** | Backend de la red social: autenticación, posts y follows | Ruby on Rails, PostgreSQL | [Ver repo](https://github.com/brusatimatias/social-api) |
-| **Social Client** | Cliente web de la red social | React | [Ver repo](https://github.com/brusatimatias/social-client) |
-| **Social Messaging API** | Servicio de mensajería en tiempo real de la red social | Node.js, WebSockets | [Ver repo](https://github.com/brusatimatias/social-messaging-api) |
-| **Stickly** | Tablero semanal de notas con integración a Google Calendar | Next.js, Prisma, PostgreSQL | [Ver repo](https://github.com/brusatimatias/stickly) |
+**Social App** — Red social full-stack dividida en tres servicios:
+- API (Ruby on Rails, PostgreSQL) — [repo](https://github.com/brusatimatias/social-api)
+- Cliente web (React) — [repo](https://github.com/brusatimatias/social-client)
+- Mensajería en tiempo real (Node.js, WebSockets) — [repo](https://github.com/brusatimatias/social-messaging-api)
+
+**Stickly** — Tablero semanal de notas con integración a Google Calendar (Next.js, Prisma, PostgreSQL) — [repo](https://github.com/brusatimatias/stickly)
 
 ## 🌐 Redes
 
