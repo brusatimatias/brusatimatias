@@ -78,7 +78,7 @@ Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación
 
 ## 🚀 Proyectos
 
-**Bookly** — Plataforma de turnos online para múltiples negocios. Cada negocio tiene su página pública en su propio subdominio, con su logo y su color. Los clientes reservan sin crear cuenta y gestionan su turno desde un link personal. El equipo trabaja desde un panel con roles: confirma solicitudes, ve la agenda actualizarse en vivo y consulta estadísticas, mientras los clientes reciben emails con el turno para agregar a su calendario (Ruby on Rails 8, Hotwire, Tailwind, PostgreSQL, Solid Queue/Cache/Cable) — [repo](https://github.com/brusatimatias/bookly)
+**Bookly** — Plataforma de turnos online multi-negocio con agenda en vivo (Ruby on Rails 8, Hotwire, PostgreSQL) — [repo](https://github.com/brusatimatias/bookly)
 
 **Social App** — Red social full-stack dividida en tres servicios:
 - API (Ruby on Rails, PostgreSQL) — [repo](https://github.com/brusatimatias/social-api)
