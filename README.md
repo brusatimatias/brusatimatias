@@ -31,6 +31,8 @@ Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Hotwire](https://img.shields.io/badge/hotwire-%23FFE801.svg?style=for-the-badge&logo=hotwire&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Bases de datos:**
 
@@ -48,7 +50,7 @@ Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación
 **DevOps / Hosting:**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
@@ -71,10 +73,12 @@ Cursé la Licenciatura en Ciencias de la Computación y Analista en Computación
 **Otras:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![RSpec](https://img.shields.io/badge/rspec-%23FFFFFF.svg?style=for-the-badge&logo=rspec&logoColor=red)
 
 ## 🚀 Proyectos
+
+**Bookly** — Plataforma de turnos online para múltiples negocios. Cada negocio tiene su página pública en su propio subdominio, con su logo y su color. Los clientes reservan sin crear cuenta y gestionan su turno desde un link personal. El equipo trabaja desde un panel con roles: confirma solicitudes, ve la agenda actualizarse en vivo y consulta estadísticas, mientras los clientes reciben emails con el turno para agregar a su calendario (Ruby on Rails 8, Hotwire, Tailwind, PostgreSQL, Solid Queue/Cache/Cable) — [repo](https://github.com/brusatimatias/bookly)
 
 **Social App** — Red social full-stack dividida en tres servicios:
 - API (Ruby on Rails, PostgreSQL) — [repo](https://github.com/brusatimatias/social-api)
